@@ -3,6 +3,9 @@
 // For generating a scripted custom field titled "Trimester"
 // It shows what Trimester and year an issue was created in (According to Deakin University's Trimester Calendar)
 // Each year needs to be added as a case statement with the relevant dates as the start and end dates change each year
+// 
+// Searcher: Exact Text Searcher (stats)
+// Template: Text Field (multi-line)
 
 import com.atlassian.core.util.DateUtils
 import com.atlassian.jira.ComponentManager
