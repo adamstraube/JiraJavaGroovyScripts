@@ -1,6 +1,6 @@
 // Hour of Day Scriptrunner script
 // 
-// Allows easy searching by hour in JQL and analystics
+// Allows easy searching by hour in JQL and analytics
 //
 // Searcher: Numeric (stats)
 // Template: Number Field

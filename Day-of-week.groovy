@@ -2,7 +2,7 @@
 //
 // Allows easy searching by the day of the week in JQL and analystics
 //
-// Searcher: Numeric (stats)
+// Searcher: Exact Text Searcher (stats)
 // Template: Text Field (multi-line)
 
 import com.atlassian.core.util.DateUtils
